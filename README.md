@@ -2,6 +2,8 @@
 
 **Miễn phí cho Antigravity Users** | Tự động dọn tabs cũ để Browser Subagent hoạt động tốt hơn
 
+Lưu ý cài đặt : Truy cập Antigravity > Yêu cầu Agent mở trình duyệt và truy cập vào link https://google.com.vn > Cài Extensions bình thường > Enjoy.
+- Nếu Agent không mở được Browser > Cài https://chromewebstore.google.com/detail/antigravity-browser-exten/eeijfnjmjelapkebgockoeaadonbchdd?pli=1 > Thử lại bước trên.
 ---
 
 ## 📖 Tổng Quan
