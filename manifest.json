@@ -1,0 +1,31 @@
+{
+    "manifest_version": 3,
+    "name": "Antigravity Tab Cleaner",
+    "version": "1.4.1",
+    "description": "🧹 Miễn phí cho Antigravity Users | Tự động dọn tabs cũ để Browser Subagent hoạt động tốt hơn",
+    "author": "AKA FRANKIE",
+    "permissions": [
+        "tabs",
+        "scripting"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_icon": {
+            "16": "icons/icon16.png",
+            "32": "icons/icon32.png",
+            "48": "icons/icon48.png",
+            "128": "icons/icon128.png"
+        }
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
